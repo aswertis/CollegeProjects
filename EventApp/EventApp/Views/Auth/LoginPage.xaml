@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventApp.Views.Auth.LoginPage"
+             Title="Вход">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+            <Image Source="logo.png" HeightRequest="100" Aspect="AspectFit" HorizontalOptions="Center"/>
+
+            <Entry Placeholder="Имя пользователя" Text="{Binding Username}"/>
+            <Entry Placeholder="Пароль" Text="{Binding Password}" IsPassword="True"/>
+
+            <!-- Добавленная кнопка "Забыли пароль?" -->
+            <Button Text="Забыли пароль?" 
+                    Command="{Binding ForgotPasswordCommand}"
+                    HorizontalOptions="End"
+                    TextColor="{StaticResource PrimaryColor}"
+                    BackgroundColor="Transparent"/>
+
+            <Button Text="Войти" 
+                    Command="{Binding LoginCommand}" 
+                    IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+
+            <Button Text="Регистрация" 
+                    Command="{Binding RegisterCommand}" 
+                    IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+
+            <Button Text="Войти как гость" 
+                    Command="{Binding GuestCommand}" 
+                    IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

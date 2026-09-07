@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventApp.Views.Auth.RegisterPage"
+             Title="Регистрация">
+
+    <StackLayout Padding="20" Spacing="15">
+        <Entry Placeholder="Имя пользователя" Text="{Binding Username}"/>
+        <Entry Placeholder="Пароль" Text="{Binding Password}" IsPassword="True"/>
+        <Entry Placeholder="Email" Text="{Binding Email}" Keyboard="Email"/>
+
+        <Button Text="Зарегистрироваться" Command="{Binding RegisterCommand}" IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+        <Button Text="Назад" Command="{Binding BackCommand}" IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+
+        <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventApp.Views.User.CartPage"
+             Title="Корзина">
+
+    <StackLayout>
+        <RefreshView IsRefreshing="{Binding IsBusy}" Command="{Binding LoadCartCommand}">
+            <CollectionView ItemsSource="{Binding CartItems}" SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="10" Padding="15" BackgroundColor="White" CornerRadius="10" HasShadow="True">
+                            <VerticalStackLayout Spacing="5">
+                                <Label Text="{Binding EventTitle}" FontAttributes="Bold" FontSize="18" TextColor="Black"/>
+                                <Label Text="{Binding EventDate, StringFormat='📅 Дата: {0:dd.MM.yyyy HH:mm}'}" FontSize="14" TextColor="Gray"/>
+                                <Label Text="{Binding Location, StringFormat='📍 {0}'}" FontSize="14" TextColor="Gray"/>
+                                <Label Text="{Binding TotalAmount, StringFormat='Цена: {0} ₽'}" FontSize="14" TextColor="DarkGreen"/>
+
+                                <Button Text="Удалить"
+                                        Command="{Binding RemoveFromCartCommand}"
+                                        CommandParameter="{Binding .}"
+                                        BackgroundColor="Gray"
+                                        TextColor="White"
+                                        VerticalOptions="Center"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+
+        <Label Text="{Binding TotalPrice, StringFormat='Общая сумма: {0} ₽'}"
+               FontAttributes="Bold"
+               FontSize="16"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               Margin="10"/>
+        <Button Text="Оформить заказ" Command="{Binding CheckoutCommand}" Margin="10"/>
+    </StackLayout>
+</ContentPage>

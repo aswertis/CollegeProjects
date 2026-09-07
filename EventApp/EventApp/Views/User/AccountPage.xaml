@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventApp.Views.User.AccountPage"
+             Title="Аккаунт">
+
+    <StackLayout Padding="20" Spacing="15">
+        <Label Text="{Binding CurrentUser.Username}" FontSize="Large" HorizontalOptions="Center"/>
+        <Label Text="{Binding CurrentUser.Mail}" HorizontalOptions="Center"/>
+
+        <Entry Placeholder="Новый пароль" Text="{Binding NewPassword}" IsPassword="True"/>
+        <Button Text="Сменить пароль" Command="{Binding UpdatePasswordCommand}" IsEnabled="{Binding IsBusy, Converter={StaticResource InverseBoolConverter}}"/>
+
+        <Button Text="Выйти" Command="{Binding LogoutCommand}" BackgroundColor="Red" TextColor="White"/>
+
+        <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+    </StackLayout>
+</ContentPage>

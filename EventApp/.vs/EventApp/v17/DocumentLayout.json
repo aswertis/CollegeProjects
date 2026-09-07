@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMB\\source\\repos\\EventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\userviewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\userviewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\userviewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\userviewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\auth\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\auth\\passwordresetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\auth\\passwordresetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\auth\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\auth\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|c:\\users\\smb\\source\\repos\\eventapp\\eventapp\\viewmodels\\userviewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB21D2E-0793-494F-B1A9-031ACDE20E31}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\viewmodels\\userviewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\App.xaml",
+              "RelativeDocumentMoniker": "EventApp\\App.xaml",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\App.xaml",
+              "RelativeToolTip": "EventApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:43:18.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "EventApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\MainPage.xaml",
+              "RelativeToolTip": "EventApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T20:43:15.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "EventApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\MauiProgram.cs",
+              "RelativeToolTip": "EventApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:43:11.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "EventApp\\Services\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\IDatabaseService.cs",
+              "RelativeToolTip": "EventApp\\Services\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:43:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "EventApp\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "EventApp\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:43:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EventApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "EventApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:42:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\UserViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\UserViewModels\\CartViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:19:24.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\EventsViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\UserViewModels\\EventsViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\EventsViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\UserViewModels\\EventsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:18:12.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\UserViewModels\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\UserViewModels\\AccountViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\UserViewModels\\AccountViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv1QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:19:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\Auth\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\RegisterViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\Auth\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:17:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordResetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\PasswordResetViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\Auth\\PasswordResetViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\PasswordResetViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\Auth\\PasswordResetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:17:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EventApp\\ViewModels\\Auth\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\SMB\\source\\repos\\EventApp\\EventApp\\ViewModels\\Auth\\LoginViewModel.cs",
+              "RelativeToolTip": "EventApp\\ViewModels\\Auth\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:16:07.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
